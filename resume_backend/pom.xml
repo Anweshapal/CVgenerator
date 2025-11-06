@@ -90,7 +90,7 @@
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
                 <includeSystemScope>true</includeSystemScope>
-                <mainClass>com.jpa.test.AiresumeGenerator1</mainClass> <!-- update if needed -->
+                <mainClass>com.jpa.test.AiresumeGenerator</mainClass> <!-- update if needed -->
             </configuration>
             <executions>
                 <execution>
